@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **cyrilgandon/cyrilgandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, I'm Cyril
+
+- 🔭 I’m currently leading development on **[STICS](https://stics.inrae.fr/)**, an agronomic simulation model at **[INRAE, Avignon, France](https://www.inrae.fr/centres/provence-alpes-cote-dazur)**. I work in **Fortran** for the core engine, **Java** for the UI, and **TypeScript** for tooling and workflow automation.
+- 🌱 I’m constantly exploring ways to modernize legacy scientific code while keeping its performance and accuracy intact.
+- 👯 I’m looking to collaborate on **open-source tools for scientific computing, Fortran linters, and workflow automation**.
+- 🤔 I’m open to discussions about **modeling, code architecture, HPC clusters, and CI/CD for scientific software**.
+- 💬 Ask me about **Fortran quirks, STICS internals, Java/TypeScript integration, and cluster deployments with Singularity**.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/cyrilgandon/)** or **cyril.gandon@gmail.com**.
